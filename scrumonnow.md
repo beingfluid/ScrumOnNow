@@ -28,3 +28,4 @@ ServiceNow’s Agile Development 2.0 application provides an agile environment f
 
 In order to understand how PPM Adventure World wants to use ServiceNow’s Agile Development 2.0 application, I would first employ techniques such as workshop sessions and process walk-through meetings to understand their business requirements, team structure, and inclusion in the documentation process,
 
+We believe there are advantages of using Agile methodology because it will allow our Project Management and Customer Service teams to work in short cycles with an adjustable scope to address the rapidly changing needs. This will lead to positive reviews, and higher customer satisfaction. We are struggling with our current practices because of the complexity of our work.
