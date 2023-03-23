@@ -99,3 +99,49 @@ A Product Owner can use a filter to define what records are related to their bac
 
 ---
 
+# Roles
+When we install the Agile Development 2.0 plugin, user roles are activated along with several other components. 
+
+We must set up scrum teams by creating groups, adding group members, and assigning scrum roles to groups or group members.
+
+
+Product Owner
+–
+Manages agile process and product backlog
+Can move stories between product backlog and releases
+Can create and manage epics, stories, products, releases, and teams
+
+Scrum Master
+–
+Guides the team through the sprint to address issues that arise in the process
+Can move stories between product backlog and releases
+Can create and manage epics, stories, sprints, and team members
+
+Scrum Admin
+–
+Can access all modules of the agile application
+Can inherit any of the scrum roles to create, edit, or manage an agile element
+
+Scrum Team Member
+–
+Works on the story in a sprint
+Can create and manage scrum tasks
+Can log enhancement requests and defect reports
+
+Scrum User
+–
+Has read-only rights to the Agile Development 2.0 application
+Can view all agile elements such as Stories, Products, Releases, and so on
+Cannot create, edit, or manage any record types
+
+---
+The Agile Development Guided Setup wizard helps you create groups, add group members, and assign scrum roles.
+
+---
+Tables
+
+The data tables are used to manage the agile process, represent releases, and represent product backlog items to be included in a sprint. These tables are installed with the activation of the Agile Development 2.0 plugin.
+
+---
+
+
