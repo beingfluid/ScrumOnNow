@@ -19,3 +19,12 @@ In this course, you will learn how to implement Agile Development 2.0 based upon
 ---
 One of the very important step of implementating 
 Agile Development 2.0 is to *know you Customer*.
+
+Based on the interactions with the stakeholders and executives, you can conclude whether ServiceNow’s Agile Development 2.0 solution would work well or not and understand how to configure the Agile Development 2.0 application.
+
+Agile Development is an iterative and incremental process for software development. It is based on short, fixed scheduled cycles with an adjustable scope to address changing development needs. 
+
+ServiceNow’s Agile Development 2.0 application provides an agile environment for product-based or project-based efforts, using the Scrum framework. It helps deliver software products efficiently by managing and tracking the software development cycle.
+
+In order to understand how PPM Adventure World wants to use ServiceNow’s Agile Development 2.0 application, I would first employ techniques such as workshop sessions and process walk-through meetings to understand their business requirements, team structure, and inclusion in the documentation process,
+
